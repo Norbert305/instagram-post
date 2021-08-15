@@ -1,0 +1,64 @@
+.container {
+    width: 400px;
+    height: 550px;
+    /* border: dashed red 1px; */
+    margin: 50px auto;
+    background-color: white;
+}
+
+.header {
+    width: 400px;
+    height: 80px;
+    /* border: dashed purple 1px; */
+}
+
+.image {
+    width: 400px;
+    height: 250px;
+    /* border: green dashed 1px; */
+}
+
+.icons {
+    width: 400px;
+    height: 70px;
+    /* border: dashed blue 1px; */
+}
+.likedby {
+    width: 400px;
+    height: 55px;
+    /* border: dashed orangered 1px; */
+}
+.post {
+    width: 400px;
+    height: 55px;
+    /* border: dashed palevioletred 1px; */
+    position: relative; 
+    bottom: 10px;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+}
+
+.fas {
+    position: relative; 
+    left: 350px;
+    ;
+}
+
+.fa-bookmark {
+    position: relative;
+    left: 260px;
+}
+
+.x {
+    float: right;
+    position: relative;
+    right: 300px;
+    bottom: 20px;
+}
+
+body {
+    background-color: black;
+}
